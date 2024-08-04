@@ -1,6 +1,6 @@
-# Tiny:bit
+# Tiny:bit Jp
 
-Extension for Yahboom Tiny:bit V2.0.3
+Extension for Yahboom Tiny:bit V2.0.3 with Japanese Lang.
 
 ## License
 
